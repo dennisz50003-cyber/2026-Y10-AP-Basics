@@ -7,7 +7,7 @@ def statement_generator(statement, decoration):
 def instructions():
     statement_generator("Instructions", "-")
 
-print('''
+    print('''
 Instructions go here.
 - instruction 1
 - instruction 2

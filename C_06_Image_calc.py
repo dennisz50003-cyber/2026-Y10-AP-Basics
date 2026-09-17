@@ -1,5 +1,5 @@
-#Ask user for width and loop until they
-#Enter a number that is more than zero
+# Ask user for width and loop until they
+# Enter a number that is more than zero
 def int_check(question, low):
 
     error = "Please enter a number that is more than zero\n"
